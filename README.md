@@ -114,7 +114,7 @@ PYTHON_VERSION = 3.10.12
 PROD_APP_SETTINGS = config.ProductionConfig
 ```
 
-The PYTHON_VERSION variable tells Render to use Python version 3.10.12 — exactly the same version we specified at the
+The PYTHON_VERSION variable tells Render to use Python version 3.10.12 - exactly the same version we specified at the
 very beginning of our project with pyenv.
 
 The second PROD_APP_SETTINGS variable instructs Render to use the Flask production config options we set in our
